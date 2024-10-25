@@ -127,12 +127,6 @@ The application uses Redis for caching the services list. Cache is automatically
 
 Cache lifetime is set to 1 hour (3600 seconds) by default.
 
-## Testing
-
-Run tests using PHPUnit:
-```bash
-php bin/phpunit
-```
 
 ## Troubleshooting
 
